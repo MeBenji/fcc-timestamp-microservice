@@ -36,3 +36,6 @@ curl http://localhost:8000/api/2026-11-21
 ```javascript
 const result = await fetch("http://localhost:8000/api/2026-11-21").then(response => response.json());
 ```
+
+## License
+This package is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
