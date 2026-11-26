@@ -19,8 +19,8 @@ npm i
 npm start
 ```
 
-### Interact \w server
-Methods to interact \w the server:
+### Interact w/ server
+Methods to interact w/ the server:
 - Open a browser and navigate to http://localhost:8000
 - Query the API at http://localhost:8000/api/:date
 
